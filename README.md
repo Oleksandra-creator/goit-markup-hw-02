@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-my the firstest home work :)
+# goit-markup-hw-02
+practice html+css
