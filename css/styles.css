@@ -120,7 +120,7 @@ a {
     background-color: #ffffff;
 }
 
-.section-team-title h2 {
+.section-team-main-title {
 
     font-weight: 700;
     font-size: 36px;
@@ -150,7 +150,7 @@ a {
     color: #434455;
 }
 
-.section-portfolio h2 {
+.section-portfolio-main-title {
 
     font-weight: 700;
     font-size: 36px;
