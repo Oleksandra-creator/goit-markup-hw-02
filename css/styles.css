@@ -10,15 +10,15 @@ a {
     text-decoration: none;
 }
 
-ul li {
+ul {
     list-style-type: none;
 }
 /*---navigation---*/
 nav ul {
     color: #2E2F42;
-}
 
-.logo {
+
+/*.logo {
     width: 44px;
     height: 21px;
     font-family: "Raleway-Bold", Helvetica;
@@ -27,7 +27,7 @@ nav ul {
     font-size: 18px;
     letter-spacing: 0.54px;
     line-height: 21px;
-    text-transform: uppercase;
+    text-transform: uppercase;*/
 }
 
 .logo-web {
@@ -72,7 +72,7 @@ nav ul {
     color: orange;
 }
 
-
+  letter-spacing: 0.54px;
 h1 {
     color: #FFFFFF;
     background-color:#2E2F42;
